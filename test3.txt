@@ -1,3 +1,6 @@
 3 plik tekstowy
 
+wstawiono liniê
+
+
 kolejna zmiana
